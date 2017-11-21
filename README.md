@@ -9,7 +9,7 @@ The store, in the beginning, is following the model of Cash on Delivery.
 
 Steps to execute this project.
 1. Install mysql and create database ecommerce.
-2. Create tables.
+2. Create tables. Go to Wiki page for more details.
 3. Open this project in eclipse and right click to Run As > Run Configurations...
 4. Enter tomcat7:run in goals. Apply and click on Run.
 5. Look in console of eclipse you will find URL in the beginning something as localhost:3300/GroceryStore.
